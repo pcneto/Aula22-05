@@ -1,0 +1,26 @@
+Programa em C
+
+-> Estudando String em C
+
+biblioteca #include <string.h>
+
+strcopy() == para coiar uma string sobre outra.
+strcat() == para anexar uma string a outra.
+strcmp() == para comparar se duas strings são  iguais.
+strncmp() == para compararos primeiros n caracteres de duas strings
+strlen() == para saber o tamanho de uma string
+
+
+----------------------------------------------------------------------
+
+Tipos de Variáveis:
+variavel local => são declaradas dentro de uma função
+parametro de função => são variáveis locais direto  na função e só podem  ser acessado  apartir de uma função, quando encerrada ela deixa de existir
+variavel  global =>  declarada fora de qualquer função
+----------------------------------------------------------------------
+
+Arrays:
+=> é uma estrutura homogena que mantém uma série de elemetos de dados de um memso tipo:
+=> possui  um tamanho  fixo:
+=> array ded uma dimensão é um vetor e array de duas ou  mais é  uma matriz
+
